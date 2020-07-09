@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-### My name is Lewis Menelaws.
+# Hi, my name is Lewis! 👋
 
 <!--
 **elebumm/elebumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
