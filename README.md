@@ -11,7 +11,7 @@
 - Loves Technology 🖨
 - Blog Writer 📝
 - Mildly Active 🏃‍♂️
-- Type 1 Diabetic 💉 #tidepool
+- Type 1 Diabetic 💉 
 
 #### Career & Other Fun Stuff
 
