@@ -17,7 +17,7 @@
 
 - Co-founder & Lead Developer of tmrrw inc 💼👨‍💻
 - ~250,000 views across all articles online 👀
-- Loves to contibute to Open Source 🔧
+- Loves to contribute to Open Source 🔧
 - Creating tutorials for people online 🧠
 - Looking for like-minded devs and mentoring 👨‍🏫
 
