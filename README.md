@@ -33,6 +33,7 @@
 #### Where to find me
 
 - Here 👋
+- [Youtube ▶️](https://www.youtube.com/@CodingWithLewis)
 - [Twitter 🦜](https://twitter.com/LewisMenelaws)
 - [Instagram 📷](https://instagram.com/lewismenelaws)
 - [Email ✉️](mailto:hi@lewismenelaws.com)
