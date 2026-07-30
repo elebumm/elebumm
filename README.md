@@ -1,47 +1,21 @@
-# Hi, my name is Lewis! 👋
+# Hey, I'm Lewis 👋
 
-<!--
-**elebumm/elebumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm a developer and filmmaker behind [Coding with Lewis](https://www.youtube.com/@CodingWithLewis). I make story-driven videos about software, AI, and the odd physical things you can build when the two escape the screen.
 
-#### About Me
+I started as a full-stack developer and co-founded tmrrw labs. These days I spend most of my time turning technical ideas into videos—and still building the demos myself.
 
-- Born in Edinburgh, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-- Living in Canada 🇨🇦
-- Loves Technology 🖨
-- Blog Writer 📝
-- Mildly Active 🏃‍♂️
-- Type 1 Diabetic 💉 
+**1.2M+ followers across YouTube, TikTok, and Instagram.**
 
-#### Career & Other Fun Stuff
+Somehow, an old Reddit video bot is still the main reason most people find me here.
 
-- Co-founder & Lead Developer of tmrrw inc 💼👨‍💻
-- ~250,000 views across all articles online 👀
-- Loves to contibute to Open Source 🔧
-- Creating tutorials for people online 🧠
-- Looking for like-minded devs and mentoring 👨‍🏫
+## A few things I've built
 
-#### Popular Articles of Mine
+| Project | What it does |
+| --- | --- |
+| [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Turns Reddit posts into short-form videos from one command. |
+| [samify](https://github.com/elebumm/samify) | Text-prompted video segmentation to ProRes 4444 with SAM 3.1. |
+| [TextFocus](https://github.com/CodingWithLewis/TextFocus) | Aligns image sequences around words for the “trending” text effect. |
 
-- [How to Create Beautiful SVG Animations Easily 🙏](https://medium.com/@LewisMenelaws/how-to-create-beautiful-svg-animations-easily-610eb2690ac3)
-- [What is AWS? A Guide for Beginners. ☁️](https://dev.to/lewismenelaws/what-is-aws-a-guide-for-beginners-p4l)
-- [Bad Habits Developers Should Fix 😨](https://dev.to/lewismenelaws/bad-habits-developers-should-fix-53n9)
-- [JAMStack. How sites are becoming even faster in a bloated web. 🥞](https://dev.to/lewismenelaws/jamstack-how-sites-are-becoming-even-faster-in-a-bloated-web-fig)
-- [How to fix burnout as a developer 🔥](https://dev.to/lewismenelaws/how-to-fix-burnout-as-a-developer--4opl)
-- [More](https://lewismenelaws.com)
+## Elsewhere
 
-#### Where to find me
-
-- Here 👋
-- [Twitter 🦜](https://twitter.com/LewisMenelaws)
-- [Instagram 📷](https://instagram.com/lewismenelaws)
-- [Email ✉️](mailto:hi@lewismenelaws.com)
-- [My Website 🌍](https://lewismenelaws.com)
-
-#### I would love to:
-
-- Talk Tech 
-- Talk other awesome things
-- Mentor
-- Be Mentored
-- Learn more
+[YouTube](https://www.youtube.com/@CodingWithLewis) · [Website](https://www.lewismenelaws.com) · [Instagram](https://www.instagram.com/lewismenelaws/) · [TikTok](https://www.tiktok.com/@lewismenelaws) · [X](https://x.com/LewisMenelaws) · [LinkedIn](https://www.linkedin.com/in/lewis-menelaws-53333b6a/)
